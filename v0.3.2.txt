@@ -1,0 +1,25 @@
+The polish is published as v0.3.2 at the same link.
+
+Soldiers
+
+Pose: They now hold their rifles at the shoulder with both hands, with the rifle pointing forward. Before, the arms hung at their sides and the rifle floated sideways.
+Helmets and gear: I added ear guards, a helmet mount, a neck guard and a bedroll on the backpack. More pouches sit on the chest, plus forearm guards, thigh pouches and boot soles.
+Rifles: Each now has an optic and a muzzle brake. The Recon gets a long scope with a glowing lens, and the Heavy gets a bulky barrel shroud and an ammo box. The Commander's rifle has a gold stripe.
+Per character: The Commander has gold epaulets, gold chest trim and a radio antenna. The Medic has red shoulder bands. The Heavy has stacked shoulder armor and a second chest plate. The Recon has hanging camo strands on the shoulders.
+
+Monsters
+
+Stalker: It now has ribs.
+Brute: Back plates and shoulder spikes.
+Ravager: A segmented tail.
+Crawler: Its legs now reach down to the ground as pointed legs.
+Alpha: A glowing neck frill and shoulder spikes.
+Teeth: Most of the monsters now have teeth.
+
+Lighting and effects
+
+Shading: Models are now shaded darker toward the ground, on undersides and around the feet, so they look less flat.
+Muzzle flashes: Bots flash when they fire, so firefights are easier to read.
+Movement: Soldiers bob a little as they walk, and monsters sway.
+
+The models are still blocky, since this is polish on the same low-detail blockouts. 
