@@ -1,0 +1,17 @@
+v0.3.0. 
+
+
+Soldiers: All 10 characters are in. The 5 human soldiers replace the old box bots, and each bot gets a different one (Assault, Heavy, Recon, Medic, Commander). Their legs swing as they walk, and a soft shadow sits under each. Team colors come from the armor, blue or red, and the Heavy has extra health (130). The hit boxes now match the models.
+
+Fixing the rifle: In your pack the soldier's rifle points sideways, so I rotated it to point forward.
+
+Monster Siege (new fifth mode): The 5 monsters are the enemies.
+
+Setup: You and 4 allied soldier bots fight waves of monsters that rush you and attack up close.
+Monsters: Stalker (fast), Brute (slow and tanky, hits hard), Ravager (fast), Crawler (weak) and Alpha (toughest). Their legs and arms animate while they move, and they lunge when they hit.
+Waves: Each wave gets tougher, with more monster health. You heal a little between waves, and kills give you ammo.
+Losing: The game ends when you die, and shows your wave and kill count.
+
+Limits of the models: The pack is unrigged blockouts, so the animation is only simple limb swinging. The monsters keep their original scale, which makes the Brute and Alpha big, and the soldiers are scaled to about 1.85 meters. The soldiers' arms stay at their sides, since the pack has no holding pose.
+
+File size: The page is now about 1MB. The models and sounds are embedded, so it still works as a single file.
