@@ -1,0 +1,7 @@
+Colors: Each character now has the art's palette. Assault is olive and khaki, Heavy is gunmetal with amber trim, Recon is dark camo, Medic is white and tan with red, and Commander is black with gold. Monsters match their art too: Stalker dark with red, Brute brown with orange lava, Ravager steel-blue, Crawler pale bone with pink, Alpha violet.
+Glowing parts: Visors, monster eyes, Brute's lava cracks and Alpha's chest lines glow.
+Soldier details: I added visors, shoulder pads, knee pads, chest pouches, belts and a blue or red team band on the arm.
+Monster details: I added back spikes, shoulder horns and claws.
+Surface texture: There's a grain texture so the surfaces aren't flat color.
+
+I did a rough software preview and the shapes and colors came out as intended, but I haven't seen it in the real game. If a bot looks invisible or black, tell me, because the grain texture is the likeliest cause. The game should switch it off by itself if it fails.
