@@ -1,0 +1,14 @@
+What changed
+
+11 weapons. I kept the original four and added your seven. The AK-Dawn, Pump Shotgun and Marksman keep their built-in models. The Vector now uses your Kriss Vector model. The new slots are MP7, MP5, SCAR, M4A1, M16, M1911 and M1911 Tactical.
+Switching weapons. Keys 1-9 pick slots 1-9, 0 picks slot 10 and - picks slot 11. The mouse wheel and Q now skip weapons you don't own, which matters in Battle Royale.
+Stats. SMGs fire fast with low damage, rifles hit harder, the M16 is semi-auto, and the pistols are semi-auto with heavy recoil. These are my first guesses, so say if any feel off.
+Models. All eight are scaled to the game's proportions and aimed down the barrel. Gloved hands and sleeves are repositioned per weapon, and the muzzle flash sits at each barrel tip.
+Pickups. Battle Royale loot crates can now drop any of the 11 weapons.
+Credits. The menu has your exact Kriss attribution text, with both links clickable. The version is now v0.4.0.
+
+Things to watch
+
+Hand positions came from my eyeballing the side-view renders. If a hand looks off on any gun, tell me which one.
+Bots still use their built-in rifle. Only your first-person weapons changed.
+File size grew from 1.4 MB to 2.2 MB, almost all weapon data, well under the 16 MB limit. The Kriss Vector and M4A1 are the heaviest meshes at about 9,700 and 7,900 triangles, so send me your FPS.
