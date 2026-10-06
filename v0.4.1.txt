@@ -1,0 +1,14 @@
+v0.4.1 is published at the same link with 18 weapons. 
+
+What changed
+
+AK-Dawn is now the AK-12, with the same stats.
+The shotgun slot is now a Magnum revolver. You didn't send a shotgun model, so I used the closest fit: a slow, heavy-hitting six-shooter. The shotgun's pellets and pump sound are gone. If you'd rather keep a shotgun, send me a model.
+Seven new weapons: ADAR 2-15, UAR15 S1, M110 SASS, UAR-10, P90 (the silenced one), Colt M4A1 and M16A4. The Marksman keeps its built-in model.
+Switching weapons: keys 1-9, 0, - and = pick weapons 1-12. [, ], Q and the wheel cycle through all 18, including the six that have no key.
+Spare parts removed. Each file had loose magazines and bullets lying beside the gun, and I stripped them out.
+Credits: the menu now has attribution for all nine new models, with links, alongside the Kriss Vector line.
+
+P90 reload animation file. I left it out because it's a rigged scene with arms, and its license is CC BY-NC (non-commercial). That conflicts with the CC BY models if the game is ever monetized. I'll bring it in with the animation update if you confirm it's fine for your use.
+
+The file is now about 7 MB, under the 16 MB limit. Each gun is 18,000 to 26,000 triangles, so please send me your FPS. If it's low, I can trim the heaviest models.
