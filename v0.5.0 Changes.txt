@@ -1,0 +1,35 @@
+v0.5.0 
+Weapons: 24 slots (13 new)
+
+Replacements: The AK-Dawn is now the AK-12, and the old shotgun is now your supplied shotgun model. The shotgun is a single piece, so it no longer has a pump animation on firing.
+New rifles: AK-19, Colt M4A1, Colt M5 SCW, Honey Badger, ADAR 2-15, DD4 X1, FN M16A4, UAR-15 S1, HK MR762, M110 SASS and UAR-10.
+Others: FN P90 and a Magnum revolver.
+Model handling: I simplified each model, aimed it forward and moved the magazine out as its own piece. I also placed hands and sights per weapon, and the scoped M110 and UAR-10 get the scope overlay.
+Stats: All stats on the new guns are my first guesses.
+
+Switching weapons
+
+Class keys: Keys 1-5 now pick a class: Assault, SMG, Marksman, Shotgun and Pistol. Pressing the same key again cycles through that class.
+Q and wheel: Q and the mouse wheel still cycle all 24.
+HUD and loot: A strip at the bottom shows the current class. Battle Royale loot can now be any of the 24.
+
+Reload animations
+
+Method: I pulled the motion out of your animation files. Hand paths, magazine paths and gun movement are scaled to each weapon and stretched to its reload time.
+Magazines: On models with a separate magazine, you see it drop out and go back in.
+Empty reloads: Carbine-style guns do a longer reload when the gun is empty.
+Who uses which:
+M4 pack: carbines and most SMGs.
+M4A1 clip: the AKs and P90.
+FAL clip: the battle rifles.
+Shotgun clip: the shotgun.
+Pistols and Magnum: a simple motion I made myself, since none of the files had one.
+Older models: The earlier weapons (Kriss, MP7, MP5, SCAR, M4A1, M16 and the pistols) have hands and gun motion but no moving magazine.
+
+Questions for you
+
+AKM file: I couldn't read the AKM .usdz animation, because its format isn't something I can open here. The AKs use the M4A1 clip instead. If you have it as FBX or GLB, I'll use it.
+P90 animation license: The P90 reload file is licensed non-commercial (CC BY-NC), so I didn't use it. Would you rather I include it, or keep the game free of NC material in case you ever sell it?
+Animation credits: The model credits are all in the menu (all CC BY 4.0). I don't have author names for the animation zips or the shotgun, so the credits line for those says they're to be added. Send me the title and author for each and I'll fill them in.
+
+The page is now about 3.9 MB because of the weapon data
