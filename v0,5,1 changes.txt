@@ -1,0 +1,25 @@
+v0.5.1 
+
+It passes the headless test (all 24 weapons aimed and reloaded, all modes), but I haven't played it myself. I checked each weapon with software previews of the model and the aiming view.
+
+**Gaps and missing pieces**
+- **Cause:** I had simplified each part of the guns separately, which opened seams between parts, and I had dropped some small parts such as sights.
+- **Fix:** I rebuilt the AK-12, AK-19, Colt M4A1, Colt M5, ADAR, DD4, M16A4, MR762, M110, UAR-10, UAR-15 and Honey Badger. Part edges now stay fixed during simplification and the sights are kept. Loose items such as the spare magazines and bullets are removed.
+
+**Aiming (ADS)**
+- **Alignment:** The aim point now lines up with the front sight tip (or the scope center on scoped guns), per weapon, and the sights are centered on the screen.
+- **Rear sights:** I added logic to cut the see-through hole in the rear sights, but it found nothing to cut on any gun. From the previews the sights read as clear, but I can't confirm the M16's rear sight from the previews.
+- **MR762:** It now has a real scope view at about 2x with a reticle.
+- **Magnifying scopes:** The UAR-10 keeps its scope view.
+
+**Per-gun answers**
+- **M110 SASS:** Yes, it is a sniper rifle. SASS stands for Semi-Automatic Sniper System, a 7.62mm semi-auto marksman rifle. The model has no scope, so I removed the scope overlay and it now aims over its flip-up iron sights.
+- **Magnum:** A revolver has no magazine, so it now swings the cylinder out, you eject and reload the rounds, and the cylinder swings shut.
+- **FN P90:** It now reloads from the top clip, using the P90 animation file you sent.
+- **MP5, SCAR, M4A1, M16, M1911 and M1911 Tactical:** I rebuilt them from your original files. The magazine is now a separate part that comes out and goes back in. The pistols had no separate magazine, so I added one that slides out of the grip.
+- **Pump shotgun:** It's the exact model from your file, flipped right side up, and the blocking polygon is gone.
+- **Marksman:** I redesigned it as a bolt-action sniper, with a proper scope, a long barrel with a muzzle brake, a chassis stock and a folded bipod.
+- **Unchanged:** Vector, MP7 and the two other reloads you liked.
+
+**Needs a decision from you:** The P90 reload is licensed CC BY-NC (non-commercial only). It's credited in the menu. If you ever sell the game or run it commercially, tell me and I'll swap that reload for a different one.
+
